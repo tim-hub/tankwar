@@ -6,6 +6,7 @@ In summary, this is a battle city clone. But it is not finished.
 Programmed by monodevelop ide, and using monogame/xna.
 
 ## Notices
+- It is still in debugging.
 - The pictures files are not included in this repo. So maybe you need to add and include them (eagle, cube tank, etc) in 40x40 pixels by yourself.
 
 
